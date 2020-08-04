@@ -7,7 +7,7 @@
 
 ### Keras
 1. Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
-2. We used TensorFlow on backend.
+2. Used TensorFlow on backend.
 3. Allows for easy and fast prototyping.
 4. Supports both convolutional networks and recurrent networks, as well as combinations of the two.
 5. Runs seamlessly on CPU and GPU.
